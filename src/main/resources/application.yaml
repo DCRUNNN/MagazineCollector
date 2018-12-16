@@ -1,0 +1,4 @@
+server:
+  port: 45031
+  servlet:
+    context-path: /MagazineCollector
